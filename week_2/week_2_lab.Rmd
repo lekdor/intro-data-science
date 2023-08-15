@@ -1,0 +1,29 @@
+---
+title: "week_2_lab"
+author: "Leki"
+date: "2023-08-08"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## This is my first report
+
+This is my firdt report
+
+```{r}
+
+age <- 23
+age <- age + 2
+age <- age * 3
+age <- age - 6
+age <- age/3
+
+print(age)
+
+```
+

@@ -1,0 +1,11 @@
+---
+title: "w3"
+author: "Leki"
+date: "2023-08-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
